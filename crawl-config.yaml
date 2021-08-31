@@ -1,0 +1,8 @@
+text: true
+collection: "bbc"
+#limit: 50
+
+seeds:
+  - url: https://www.bbc.com
+    depth: 2
+    scopeType: "host"
